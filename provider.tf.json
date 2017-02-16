@@ -1,0 +1,13 @@
+#######################################################
+#
+#	Provider configuration
+#
+#		by J.CUADRADO 16/02/2017
+#
+#######################################################
+#
+#   Les credentioals sont sourcé... Mouhaaa
+
+
+
+provider "aws" {}
