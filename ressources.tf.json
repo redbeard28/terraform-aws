@@ -1,8 +1,9 @@
 # Resource configuration 
 resource "aws_instance" "hello-instance" { 
-  ami = "ami-9bf712f4" 
+  #ami = "ami-9bf712f4" 
+  ami = "ami-08222e15"
   instance_type = "t2.micro" 
   tags { 
     Name = "hello-instance" 
   } 
-}   
+}     
