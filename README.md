@@ -1,3 +1,3 @@
 # terraform-aws
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/redbeard28/terraform-aws/releases)
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/redbeard28/terraform-aws/watchers)
+[![Build Status](https://img.shields.io/github/forks/https://github.com/redbeard28/terraform-aws.git.svg?style=flat-square)](https://github.com/https://github.com/redbeard28/terraform-aws.git)
+[![Build Status](https://img.shields.io/github/stars/https://github.com/redbeard28/terraform-aws.git.svg?style=flat-square)](https://github.com/https://github.com/redbeard28/terraform-aws.git)
